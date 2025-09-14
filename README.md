@@ -1,7 +1,10 @@
 # Sprint-2
 Sprint 2
 # ToCupboard - Sprint 2 (WordPress + API + Pago simulado)
-
+- Accede a la carpeta de los recursos utilizados mediante este enlace
+  https://drive.google.com/drive/folders/1oGgxheWVImE03EMRxOzQ-6N15sZVlldZ?usp=drive_link
+- Carpeta de sitio web local con xampp
+- Certificados autofirmados para sitio HTTPS
 ## Descripción
 Sitio WordPress que consume API de productos y simula pasarela de pagos. Aplicación de prácticas DevSecOps.
 
